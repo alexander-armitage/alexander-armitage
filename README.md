@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Alexander
 
-<!--
-**alexander-armitage/alexander-armitage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me
+- Electrical & Mechanical Engineering student
+- Passionate about **embedded systems**, robotics, and low-level programming
+- My main project: **[SideKick](https://github.com/Sidekick-Robotics/Sight)** – a platform to make debugging embedded systems easier
+- I enjoy solving real-world problems with code and hardware
 
-Here are some ideas to get you started:
+### 🛠️ Top languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Learning
+- Learning the ESP-IDF with FreeRTOS
+- Advanced C++ for embedded applications
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-armitage-69a429334/)
